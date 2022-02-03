@@ -1,8 +1,0 @@
-
-Create a repositary, create a file and add content.
-Commit a file
-Created folder in local system
-Push local commits to remote, pull.
-
-Link-
-https://github.com/HimaniLalkiya/task.git

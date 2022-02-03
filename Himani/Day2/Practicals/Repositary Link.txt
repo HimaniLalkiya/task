@@ -1,5 +1,0 @@
-
-Stash, stage , pull request,resolving conflicts,merge.
-
-Link-
-https://github.com/HimaniLalkiya/task.git
